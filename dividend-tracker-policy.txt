@@ -1,0 +1,43 @@
+Privacy Policy
+
+Last Updated: Jun.7, 2024
+
+Welcome to Dividend Tracker!
+
+At Dividend Tracker, we are committed to protecting your privacy. This Privacy Policy outlines the types of information we collect, how we use it, and the measures we take to ensure your information is secure.
+
+1. Information We Collect
+
+We do not collect any personal data from our users. Our app is designed to function without requiring you to provide any personal information.
+
+2. Use of Information
+
+Since we do not collect any personal data, we do not use or process any personal information. Our app functions solely to track stock dividends and display related information to you.
+
+3. Advertising
+
+Our app is supported by advertisements. Third-party ad networks may collect certain information to provide you with targeted ads. This information is typically non-personal and includes data such as your device type, operating system, and general geographic location. We encourage you to review the privacy policies of these ad networks to understand how they use your data.
+
+Google AdMob is the primary ad network used in our app. You can review Google's privacy policy for more information on how they handle your data: Google Privacy Policy.
+
+4. Internet Usage
+
+Our app uses the internet to access APIs that provide up-to-date stock dividend information. This may involve sending requests to external servers, but no personal data is transmitted or collected in these interactions.
+
+5. Security
+
+We take the security of our app seriously. While we do not collect personal information, we implement industry-standard measures to protect the data we do process and ensure the app operates securely.
+
+6. Children's Privacy
+
+Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take the necessary actions.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at dividendtracker1403@gmail.com.
+
+Thank you for using Dividend Tracker!
